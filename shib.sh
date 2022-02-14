@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u SHIB:0x87e4cf96b8108d2e9111baa62603c4d995d82abb.net -log
